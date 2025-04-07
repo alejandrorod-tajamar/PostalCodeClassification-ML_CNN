@@ -11,3 +11,7 @@ pydot
 graphviz
 jinja2
 scikit-learn
+fastapi
+uvicorn
+pillow
+python-multipart
